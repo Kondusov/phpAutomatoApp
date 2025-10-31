@@ -1,0 +1,25 @@
+
+.profile-screen{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    
+}
+
+.profile-info-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+
+    width: 100%;
+    max-width: 200px;
+}
+
+
+.avatar{
+    width: 200px;
+    aspect-ratio: 1/1;
+
+}
